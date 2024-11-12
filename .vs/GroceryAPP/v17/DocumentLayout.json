@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jimy\\source\\repos\\MAUI\\GroceryAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F8DD7C-8C0E-4861-9211-8E0B9F097BC7}|GroceryAPP.csproj|c:\\users\\jimy\\source\\repos\\maui\\groceryapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F8DD7C-8C0E-4861-9211-8E0B9F097BC7}|GroceryAPP.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F8DD7C-8C0E-4861-9211-8E0B9F097BC7}|GroceryAPP.csproj|c:\\users\\jimy\\source\\repos\\maui\\groceryapp\\views\\welcomepopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1F8DD7C-8C0E-4861-9211-8E0B9F097BC7}|GroceryAPP.csproj|solutionrelative:views\\welcomepopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F8DD7C-8C0E-4861-9211-8E0B9F097BC7}|GroceryAPP.csproj|c:\\users\\jimy\\source\\repos\\maui\\groceryapp\\views\\storespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1F8DD7C-8C0E-4861-9211-8E0B9F097BC7}|GroceryAPP.csproj|solutionrelative:views\\storespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F8DD7C-8C0E-4861-9211-8E0B9F097BC7}|GroceryAPP.csproj|c:\\users\\jimy\\source\\repos\\maui\\groceryapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1F8DD7C-8C0E-4861-9211-8E0B9F097BC7}|GroceryAPP.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F8DD7C-8C0E-4861-9211-8E0B9F097BC7}|GroceryAPP.csproj|c:\\users\\jimy\\source\\repos\\maui\\groceryapp\\views\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1F8DD7C-8C0E-4861-9211-8E0B9F097BC7}|GroceryAPP.csproj|solutionrelative:views\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Jimy\\source\\repos\\MAUI\\GroceryAPP\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Jimy\\source\\repos\\MAUI\\GroceryAPP\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:27:32.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomePopup.xaml",
+              "DocumentMoniker": "C:\\Users\\Jimy\\source\\repos\\MAUI\\GroceryAPP\\Views\\WelcomePopup.xaml",
+              "RelativeDocumentMoniker": "Views\\WelcomePopup.xaml",
+              "ToolTip": "C:\\Users\\Jimy\\source\\repos\\MAUI\\GroceryAPP\\Views\\WelcomePopup.xaml",
+              "RelativeToolTip": "Views\\WelcomePopup.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T12:25:14.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoresPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jimy\\source\\repos\\MAUI\\GroceryAPP\\Views\\StoresPage.xaml",
+              "RelativeDocumentMoniker": "Views\\StoresPage.xaml",
+              "ToolTip": "C:\\Users\\Jimy\\source\\repos\\MAUI\\GroceryAPP\\Views\\StoresPage.xaml",
+              "RelativeToolTip": "Views\\StoresPage.xaml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T12:24:38.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jimy\\source\\repos\\MAUI\\GroceryAPP\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Jimy\\source\\repos\\MAUI\\GroceryAPP\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Views\\MainPage.xaml",
+              "ViewState": "AQIAAEoBAAAAAAAAAAAAAL4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T12:19:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jimy\\source\\repos\\MAUI\\GroceryAPP\\Views\\DetailPage.xaml",
+              "RelativeDocumentMoniker": "Views\\DetailPage.xaml",
+              "ToolTip": "C:\\Users\\Jimy\\source\\repos\\MAUI\\GroceryAPP\\Views\\DetailPage.xaml",
+              "RelativeToolTip": "Views\\DetailPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T12:18:35.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
